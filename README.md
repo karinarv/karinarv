@@ -8,6 +8,11 @@
   <a href="https://github.com/drifaro">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=karinarv&show_icons=true&theme=radical"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinarv&layout=compact&langs_count=7&theme=radical"/>
+  
 </div>
 
+</div>
  
+  ![Snake animation](https://github.com/karinarv/karinarv/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
