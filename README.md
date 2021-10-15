@@ -10,9 +10,3 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinarv&layout=compact&langs_count=7&theme=radical"/>
   
 </div>
-
-</div>
- 
-  ![Snake animation](https://github.com/karinarv/karinarv/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
