@@ -1,7 +1,7 @@
 ## Olá, eu sou a Karina ✨
 
-- 👩‍💻 Desenvolvedora em formação pela Generation Brasil
-- ☕ Estudando Java Junior
+- 👩‍💻 Desenvolvedora JR na Bees
+- ☕  Estudando: Master of Business Administration - MBA, CLOUD ENGINEERING & ARCHITECTURE
 - 😄 Pronouns: Ela/Dela
 
 <div align="center">
