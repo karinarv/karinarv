@@ -1,7 +1,7 @@
 ## Olá, eu sou a Karina ✨
 
 - 👩‍💻 Desenvolvedora JR na Bees
-- ☕ Estudando: MBA, CLOUD ENGINEERING & ARCHITECTURE
+- ☕ Formação: MBA, CLOUD ENGINEERING & ARCHITECTURE
 - 😄 Pronouns: Ela/Dela
 
 <div align="center">
