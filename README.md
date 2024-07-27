@@ -3,7 +3,8 @@
 - 👩‍💻 Desenvolvedora JR na Bees
 - ☕  MBA, CLOUD ENGINEERING & ARCHITECTURE
 - 😄 Pronouns: Ela/Dela
-- :movie_camera: [Campus Party Lecture ](https://www.youtube.com/live/4WrwxUw9_wI?si=yqio5JXJj1Zz4qzj)
+- :link: Vice President of the [VisionSync AI](https://beacons.ai/visionsyncai) community
+- :movie_camera: First presentation on Computer Vision: [Campus Party - 11/07/24 ](https://www.youtube.com/live/4WrwxUw9_wI?si=yqio5JXJj1Zz4qzj)
 
 <div align="center">
   <a href="https://github.com/karinarv">
