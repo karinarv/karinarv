@@ -1,8 +1,8 @@
-## Olá, eu sou a Karina ✨
+## Hello, I'm Karina ✨
 
-- 👩‍💻 Desenvolvedora JR na Bees
+- 👩‍💻 DevOps Engineer
 - ☕  MBA, CLOUD ENGINEERING & ARCHITECTURE
-- 😄 Pronouns: Ela/Dela
+- 😄 Pronouns: She/Her
 - :link: Vice President of the [VisionSync AI](https://beacons.ai/visionsyncai) community
 - :movie_camera: First presentation on Computer Vision: [Campus Party - 11/07/24 ](https://www.youtube.com/live/4WrwxUw9_wI?si=yqio5JXJj1Zz4qzj)
 
@@ -14,7 +14,7 @@
   
 <div align="center">
   
-  ### Linguagens de Programação
+  ### Programming Languages
   
   ##
 </div><br>
@@ -30,13 +30,15 @@
  <img align="center" alt="Karina-spring" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
  <img align="center" alt="Karina-MySQL" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
  <img align="center" alt="Karina-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
+<img align="center" alt="Karina-AzureDevOps" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg">
+<img align="center" alt="Karina-Golang" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
 </div>
   
  ##
   
 <div align="center">
   
-  ### Contato
+  ### Contact
  
 </div><br>
   
